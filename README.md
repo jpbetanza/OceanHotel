@@ -1,8 +1,8 @@
 # OceanHotel Financial Dashboard
+## Getting This
+!['spreadsheet printscreen'](Dashboard.png)
 ## From this
 !['spreadsheet printscreen'](SpreadSheet.png)
-## To This
-!['spreadsheet printscreen'](Dashboard.png)
 ## Objective
 The OceanHotel Financial Dashboard is designed to provide comprehensive financial insights for the OceanHotel resort, a luxury hotel located in São Miguel do Gostoso, Rio Grande do Norte. This dashboard has been developed in response to concerns from Mr. Rodrigo, the hotel manager, regarding the potential impact of the current economic climate on the hotel's profit margins. Given the rising costs of supplies and the stable prices of room rates, there is a need for an effective tool to manage and analyze the hotel's financial performance.
 
